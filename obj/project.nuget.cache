@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9d1W1o/v7+TqJXhmzzmzqNqj8L7hXwdUVsTKBLhnSlpA/1vgyOZWVymFScZdhyC7X9T5OpLV7sV7tyZVNuMMDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\MesRush\\MesRush\\MesRush.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\materialdesigncolors\\3.0.0\\materialdesigncolors.3.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\materialdesignthemes\\5.0.0\\materialdesignthemes.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
