@@ -27,3 +27,4 @@ C:\Users\Administrator\source\repos\MesRush\MesRush\bin\Debug\net7.0-windows\Mic
 C:\Users\Administrator\source\repos\MesRush\MesRush\obj\Debug\net7.0-windows\App.baml
 C:\Users\Administrator\source\repos\MesRush\MesRush\obj\Debug\net7.0-windows\MesRush.csproj.CopyComplete
 C:\Users\Administrator\source\repos\MesRush\MesRush\obj\Debug\net7.0-windows\MesRush_Content.g.cs
+C:\Users\Administrator\source\repos\MesRush\MesRush\obj\Debug\net7.0-windows\MesRush.sourcelink.json

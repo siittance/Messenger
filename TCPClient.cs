@@ -14,7 +14,7 @@ namespace MesRush
         {
             socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             socket.Connect("26.244.168.67", 8888);
-            RecieveMessage();
+            Task.Run(() => RecieveMessage());
         }
 
         public async void SendMessage(string message)

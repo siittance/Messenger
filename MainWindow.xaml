@@ -21,7 +21,7 @@
         <TextBlock Text="Добро пожаловать!" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30" TextWrapping="Wrap"/>
         <TextBox Grid.Row="1" Background="#01939A	" Margin="10" x:Name="Client_Name" materialDesign:HintAssist.Hint=" Введите имя клиента"/>
         <Button Grid.Row="2" Margin="10" Content="Создание нового чата" FontSize="15" Background="#8957ff" Click="CreateNewChatClick"/>
-        <Button Grid.Row="3" Margin="10" Content="Подключение к новому чату" FontSize="15" Background="#8957ff	" Click="ConnectChatButton"/>
-        <TextBox Grid.Row="4" Background="#01939A	" Margin="10" x:Name="IP" materialDesign:HintAssist.Hint=" Введите IP сервера"/>
+        <Button Grid.Row="3" Margin="10" Content="Подключение к новому чату" FontSize="15" Background="#8957ff	" Click="ConnectChatButton" Cursor="Hand"/>
+        <TextBox Grid.Row="4" Background="#01939A	" Margin="10" x:Name="IP" materialDesign:HintAssist.Hint=" Введите IP сервера" Text="{Binding IpAddress, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
     </Grid>
 </Window>
